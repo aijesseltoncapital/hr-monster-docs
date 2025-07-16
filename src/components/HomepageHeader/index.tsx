@@ -31,7 +31,7 @@ export default function HomepageHeader() {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
               </svg>
             </Link>
-            <Link className={clsx("button button--lg", styles.heroButton, styles.heroSecondaryButton)} to="/docs/api">
+            <Link className={clsx("button button--lg", styles.heroButton, styles.heroSecondaryButton)} to="/docs/api/authentication">
               <span>API Reference</span>
               <svg className={styles.heroButtonIcon} fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path

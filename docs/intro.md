@@ -27,7 +27,7 @@ HR Monster is an all-in-one Human Resource Management platform designed to simpl
 ## How to Use This Guide
 
 - Use the sidebar to navigate between topics
-- Start with the [Getting Started](./getting-started/overview.md) guide
+- Start with the [Getting Started](./getting-started.md) guide
 - Explore detailed walkthroughs under Employee and Employer sections
 - Refer to the API section for integration instructions
 

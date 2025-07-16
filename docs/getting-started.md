@@ -42,8 +42,8 @@ Depending on your role:
 ## Need Help?
 
 Check out:
-- [Employee Overview](../employee/overview.md)
-- [Employer Overview](../employer/overview.md)
-- [API Getting Started](../api/authentication.md)
+- [Employee Overview](../docs/employee/overview.md)
+- [Employer Overview](../docs//employer/overview.md)
+- [API Getting Started](../docs/api/authentication.md)
 
 Welcome aboard 🚀
